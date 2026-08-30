@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="Deepseek">
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/Lindverne">
     <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api?username=Lindverne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
