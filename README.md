@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   <img src="https://img.shields.io/badge/VSCodium-3993EE.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">   
+<img src="https://custom-icon-badges.demolab.com/badge/Zenless%20Zone%20Zero-000000.svg?logo=zzz_compressed&logoColor=white&style=for-the-badge" alt="Zenless Zone Zero">      
   <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="OpenCode">
