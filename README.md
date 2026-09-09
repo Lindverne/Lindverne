@@ -19,10 +19,12 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=whit" alt="Markdown">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Zorin%20OS-%2310AAEB.svg?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS">
+ <img src="https://img.shields.io/badge/CachyOS-1793D1.svg?style=for-the-badge&logo=cachyos&logoColor=white" alt="CachyOS"> 
+  <img src="https://img.shields.io/badge/KDE%20Plasma-0068C6.svg?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma">   
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  <img src="https://img.shields.io/badge/VSCodium-3993EE.svg?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">   
   <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" alt="OpenCode">
